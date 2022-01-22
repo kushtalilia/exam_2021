@@ -16,7 +16,7 @@ public class JSONAppTest {
         Json jsonObject = JSONApp.sessionResult();
 
         String expectedJSON =
-                "{'name': 'Andrii', 'surname': 'Rodionov', 'year': 2, 'exams': [" +
+                "{'name': 'Liliia', 'surname': 'Kushta', 'year': 2, 'exams': [" +
                         "{'course': 'OOP', 'mark': 3, 'passed': true}," +
                         "{'course': 'English', 'mark': 5, 'passed': true}," +
                         "{'course': 'Math', 'mark': 2, 'passed': false}" +
